@@ -1,0 +1,2 @@
+C:/Users/19777/git_repository/DanXi/android/app/.cxx/Debug/6g425317/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/19777/git_repository/DanXi/android/app/.cxx/Debug/6g425317/armeabi-v7a/CMakeFiles/rebuild_cache.dir
